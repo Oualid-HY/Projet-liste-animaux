@@ -1,0 +1,9 @@
+#img{
+    display: block;
+    height: 140px;
+    width: fit-content;
+    margin: auto;
+}
+#description{
+    font-size: 0.8em;
+}
