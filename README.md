@@ -1,9 +1,6 @@
 # Projet-liste-animaux
 
 Permettez moi de vous dirigez vers le fichier "app-debug.apk" en suivant le chemin Projet-liste-animaux\platforms\android\app\build\outputs\apk\debug.
-
-
-
 Télecharger et installer ce fichier sur votre smartphone afin de découvrir l'application.
 
  Développer une application mobile
