@@ -14,7 +14,7 @@ l'exécution, j’ai utilisé la CLI de Cordova qui m’a permis de créer et d�
 lancé la commande “emulate” de mon projet j'ai obtenu une exécution du programme, à la fois dans le simulateur mais aussi sur l’appareil en mode développeur. J’ai bénéficié également d’un fichier APK stable sur
 smartphone.
 
-2. Précisez les moyens utilisés :
+2. Les moyens utilisés :
 HTML5 - CSS3 - FlexBox - Javascript- AJAX - jQuery - jQuery Mobile - Cordova
 Installation d'un environnement de développement pour les applications mobiles Android (NodeJS, JDK, SDK Android, Gradle (Ant)).
 L’utilisation de la CLI de Cordova est appréciable afin de lancer ou exécuter le projet.
